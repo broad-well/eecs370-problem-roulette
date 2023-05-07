@@ -1,12 +1,5 @@
-<script>
-    let counter = 0;
-</script>
-<style>
-    button {
-        background: green;
-        color:#FFF;
-    }
-</style>
+<h1>EECS 370 Problem Roulette</h1>
 
-I'm counting ... {counter}
-<button on:click={() => {counter++}}>Count up</button>
+<ul>
+    <li><a href="/vms">Virtual Memory Sizes</a></li>
+</ul>
